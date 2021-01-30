@@ -6,7 +6,7 @@ Ingrédients (pour 4 personnes):
 - 166,5g de farine
 - 2/3 d'un sachet de levure de boulanger
 - 100 ml d'eau
-- 2/3 d'une cuillère à soupe
+- 2/3 d'une cuillère à soupe d'huile d'olive
 - 2/3 c. à café de sel
 
 Ustensiles:
