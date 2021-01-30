@@ -3,7 +3,7 @@ Pizza chèvre-miel de Batou
 Source: https://github.com/Baptiste-Leterrier
 
 Ingrédients (pour 4 personnes):
-- [Pâte à pizza bien de chez nous](https://github.com/nlhomme/recettes-de-cuisine/tree/main/manger/pates_et_pains/pate-pizza-machine.md)
+- [Pâte à pizza bien de chez nous](https://github.com/nlhomme/recettes-de-cuisine/tree/main/manger/pates_et_pains/pate-pizza-robot.md)
 - Crême fraiche epaisse (Crème d'Isigny de préférence)
 - 2 c. à café de sel
 - Buche de chèvre
