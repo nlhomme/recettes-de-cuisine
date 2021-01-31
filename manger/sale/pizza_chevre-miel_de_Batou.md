@@ -7,7 +7,7 @@ Ingrédients (pour 4 personnes):
 - Crême fraiche epaisse (Crème d'Isigny de préférence)
 - 2 c. à café de sel
 - Buche de chèvre
-- 1/2 oignon jeune
+- 1/2 oignon jaune ou rouge
 - Lardons ou poitrine fumée (une grosse poignée)
 - Pot de miel
 
