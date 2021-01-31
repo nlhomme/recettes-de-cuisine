@@ -8,7 +8,8 @@ Ingrédients (pour 6 personnes):
 - 1 citron bio
 - 1 orange bio
 - 125g de sucre de canne
-- 15g de cannelle en poudre
+- 15g de cannelle en poudre (Il est possible de remplacer la cannelle par du thé chaï.)
+
 
 Ustensiles:
 - 1 couteau
