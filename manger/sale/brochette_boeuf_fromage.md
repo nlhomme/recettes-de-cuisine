@@ -6,7 +6,7 @@ Ingrédients (pour 4 personnes):
 
 - 200 g de carpaccio de boeuf
 - 100g de fromage à pate dur type emmental ou comté
-- Sauce yakitori toute prête ou [recette](https://github.com/nlhomme/recettes-de-cuisine) 
+- Sauce yakitori toute prête ou [recette](https://github.com/nlhomme/recettes-de-cuisine/blob/main/manger/sale/sauce_yakitori.md) 
 
 Ustensiles:
 
