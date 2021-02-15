@@ -7,7 +7,7 @@ Source: https://github.com/Baptiste-Leterrier
 Ingrédients (pour des yakitori pour 4 personnes):
 
 - 10 CAS de sauce soja salé
-- 1 CAS de Vinaire Xeres
+- 1 CAS de vinaigre Xeres
 - 5 CAC de cassonnade
 - 1/2 CAC de Maïzena
 
