@@ -2,7 +2,7 @@ Sauce Yakitori simple
 (Tanahura Teriyaki = Littérallement Sauce Teriyaki du fond de placard traduit sur Internet comme un sac) 
 
 
-Source: https://github.com/Baptiste-Leterrier
+Source: [Baptiste Leterrier](https://github.com/Baptiste-Leterrier)
 
 Ingrédients (pour des yakitori pour 4 personnes):
 
