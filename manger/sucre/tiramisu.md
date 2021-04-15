@@ -1,5 +1,7 @@
 Tiramisu
 
+Source: [Baptiste Leterrier](https://github.com/Baptiste-Leterrier)
+
 Ingrédients (pour 4 personnes):
 - 3 oeufs
 - 70 g de sucre roux
