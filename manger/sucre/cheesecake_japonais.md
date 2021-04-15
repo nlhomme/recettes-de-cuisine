@@ -1,7 +1,9 @@
 Cheesecake japonais
 
+Source: [Baptiste Leterrier](https://github.com/Baptiste-Leterrier)
+
 Ingrédients (pour 4 personnes):
-- 125g de creamcheese  Philadelphia
+- 125g de creamcheese Philadelphia
 - 60g de sucre
 - 10g de Maïzena
 - 45 mL de lait
@@ -15,7 +17,7 @@ Ustensiles:
 - Moule à manqué 18cm ou moule classique
 - 2 saladiers
 - Fouet
-- Lèche Frite
+- Lèchefrite
 - Ramequin
 - Maryse
 
