@@ -2,7 +2,7 @@
 
 Source: [Baptiste Leterrier](https://github.com/Baptiste-Leterrier)
 
-# Ingrédients (pour 4 personnes)
+## Ingrédients (pour 4 personnes)
 
 - 125g de creamcheese Philadelphia
 - 60g de sucre
