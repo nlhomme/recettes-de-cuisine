@@ -2,7 +2,7 @@
 
 Source: [Journal des Femmes](https://cuisine.journaldesfemmes.fr/recette/320385-vin-chaud)
 
-## Ingrédients (pour 6 personnes):
+## Ingrédients (pour 6 personnes)
 
 - 1 bouteille de vin rouge, de préférence:
   - AOP Côtes-du-Rhône ou Côtes-du-Rhône villages
@@ -20,13 +20,13 @@ Source: [Journal des Femmes](https://cuisine.journaldesfemmes.fr/recette/320385-
 - 1 pincée de gingembre en poudre
 - 1 pincée de muscade rapée
 
-## Ustensiles:
+## Ustensiles
 
 - Couteau
 - Casserolle
 - Cuillère en bois
 
-## Mode opératoire:
+## Mode opératoire
 
 - Mettez dans un filtre à thé les étoiles d’anis, la cannelle et les clous de girofle. Fermez bien le sachet
 - Dans une grande casserole, versez le vin rouge, l’eau, l’orange, la pincée de gingembre en poudre, la pincée de muscade râpée
