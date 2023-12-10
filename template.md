@@ -2,7 +2,7 @@
 
 Source: <URL, livre, etc>
 
-##Ingrédients (pour X personnes)
+## Ingrédients (pour X personnes)
 
 - Ingrédient
 - Ingrédient
