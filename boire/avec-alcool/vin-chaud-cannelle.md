@@ -1,4 +1,4 @@
-Vin chaud à la cannelle
+# Vin chaud à la cannelle
 
 Source: [Journal des Femmes](https://cuisine.journaldesfemmes.fr/recette/320385-vin-chaud)
 
