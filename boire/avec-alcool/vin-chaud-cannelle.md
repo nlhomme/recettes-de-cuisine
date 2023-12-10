@@ -1,23 +1,36 @@
 Vin chaud à la cannelle
 
-Source: [CuisineAZ](https://www.cuisineaz.com/recettes/vin-chaud-a-la-cannelle-11223.aspx)
+Source: [Journal des Femmes](https://cuisine.journaldesfemmes.fr/recette/320385-vin-chaud)
 
 Ingrédients (pour 6 personnes):
-- 60 cl de vin rouge
-- 30 cl d'eau
-- 1 citron bio
-- 1 orange bio
-- 125g de sucre de canne
-- 15g de cannelle en poudre (Il est possible de remplacer la cannelle par du thé chaï.)
 
+- 1 bouteille de vin rouge, de préférence:
+  - AOP Côtes-du-Rhône ou Côtes-du-Rhône villages
+  - IGP d’Oc Merlot
+  - IGP d’Oc Grenache
+  - IGP d’Oc Syrah
+  - AOP Languedoc
+  - AOP Beaujolais
+  - AOP Bordeaux ou Bordeaux supérieur (non élevés en barrique)
+- 50 cl d'eau
+- 1 orange coupée en quartier fin
+- 50g de sucre
+- 2 bâtons de cannelle
+- 3 clous de girofle
+- 1 pincée de gingembre en poudre
+- 1 pincée de muscade rapée
 
 Ustensiles:
+
 - 1 couteau
 - 1 casserolle
+- 1 couillère en bois
 
 Mode opératoire:
-- Lavez l'orange et le citron et coupez-les en rondelles, en veillant à bien ôter les pépins
-NOTE: Pour accentuer le parfum des agrumes, vous pouvez également verser des zestes d'orange et de citron
-- Dans une grande casserole, versez le vin, l'eau, le sucre de canne ainsi que la cannelle en poudre
-- Ajoutez les rondelles d'orange et de citron, remuez et faites chauffer jusqu'à l'ébullition. Ne faites pas bouillir plus de 2 minutes
-- Servez votre recette de vin chaud épicé bien chaud, en déposant si vous le souhaitez une rondelle d'agrume dans chaque verre, pour la décoration et un parfum plus fort
+
+- Mettez dans un filtre à thé les étoiles d’anis, la cannelle et les clous de girofle. Fermez bien le sachet
+- Dans une grande casserole, versez le vin rouge, l’eau, l’orange, la pincée de gingembre en poudre, la pincée de muscade râpée
+- Ajoutez le filtre à thé et ses épices
+- Faites chauffez jusqu’à un léger frémissement
+- Baissez le feu au minimum, couvrez la casserole et laissez frémir tout doucement pendant une demi-heure
+- Eteignez le feu, ajoutez le sucre et remuez. Servez le vin chaud dans des tasses ou des mugs en verre résistants à la chaleur
