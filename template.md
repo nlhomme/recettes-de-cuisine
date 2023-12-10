@@ -2,20 +2,20 @@
 
 Source: <URL, livre, etc>
 
-Ingrédients (pour X personnes):
+##Ingrédients (pour X personnes)
 
 - Ingrédient
 - Ingrédient
 - Ingrédient
 
-Ustensiles:
+## Ustensiles
 
 - Utstensile
 - Utstensile
 - Utstensile
 - Utstensile
 
-Mode opératoire:
+## Mode opératoire
 
 - Etape
 - Etape
