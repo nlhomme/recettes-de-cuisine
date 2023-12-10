@@ -1,6 +1,6 @@
 # Titre de la recette
 
-Source: [Journal des Femmes](https://cuisine.journaldesfemmes.fr/recette/320385-vin-chaud)
+Source: [Journal des Femmes](https://cuisine.journaldesfemmes.fr/recette/349617-le-clafoutis-de-mon-grand-pere)
 
 ## Ingrédients (pour 6 personnes)
 
