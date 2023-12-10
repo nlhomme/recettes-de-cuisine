@@ -2,7 +2,7 @@
 
 Source: [Journal des Femmes](https://cuisine.journaldesfemmes.fr/recette/333415-recette-de-crepes-la-meilleure-recette-rapide)
 
-Ingrédients (pour 4 personnes):
+## Ingrédients (pour 4 personnes)
 
 - 250 g de farine T45
 - 4 oeufs
@@ -11,14 +11,14 @@ Ingrédients (pour 4 personnes):
 - 50 g de beurre fondu
 - 1 pincée de sel (:warning: ne pas en mettre si utilisation de beurre demi-sel)
 
-Ustensiles:
+## Ustensiles
 
 - 1 saladier
 - 1 batteur électrique
 - 1 louche
 - 1 crêpière
 
-Mode opératoire:
+## Mode opératoire
 
 - Mettez la farine dans un saladier avec le sel et le sucre
 - Faites un puits au milieu et versez-y les œufs

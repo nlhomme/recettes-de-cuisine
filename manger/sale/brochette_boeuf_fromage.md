@@ -1,21 +1,21 @@
-Brochettes Boeuf Fromage
+# Brochettes Boeuf Fromage
 
 Source: [Marmiton](https://www.marmiton.org/recettes/recette_yakitori-boeuf-au-fromage-rapide_68293.aspx)
 
-Ingrédients (pour 4 personnes):
+## Ingrédients (pour 4 personnes)
 
 - 200 g de carpaccio de boeuf
 - 100g de fromage à pate dur type emmental ou comté
-- Sauce yakitori toute prête ou [recette](https://github.com/nlhomme/recettes-de-cuisine/blob/main/manger/sale/sauce_yakitori.md) 
+- Sauce yakitori toute prête ou [recette](https://github.com/nlhomme/recettes-de-cuisine/blob/main/manger/sale/sauce_yakitori.md)
 
-Ustensiles:
+## Ustensiles
 
 - Assiette à soupe
 - Brochette en bambou
 - Poêle
 - Spatule en bois
 
-Mode opératoire:
+## Mode opératoire
 
 - Faire mariner le carpaccio dans la sauce yakitori pendant 10 minutes
 - Couper des dés de fromage de 1 cm ou moins selon les goûts et en  mettre 4 par brochettes

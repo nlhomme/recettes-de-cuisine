@@ -1,3 +1,3 @@
 # Manger salé
 
-Pour le repas ou l'apréritif.
+Pour le repas ou l'apréritif
