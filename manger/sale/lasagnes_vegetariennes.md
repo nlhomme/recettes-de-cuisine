@@ -1,8 +1,9 @@
-Lasagnes végétariennes
+# Lasagnes végétariennes
 
 Source: [Fourchette & Bikini](https://www.fourchette-et-bikini.fr/recettes/recettes-minceur/lasagnes-vegetariennes-faciles-et-sante-aux-legumes.html)
 
-Ingrédients (pour 4 personnes):
+## Ingrédients (pour 4 personnes)
+
 - 1 paquet de feuilles de lasagnes
 - 1 aubergine
 - 1 poivron rouge
@@ -17,10 +18,15 @@ Ingrédients (pour 4 personnes):
 - Huile d'olive
 - Sel & poivre
 
-Ustensiles:
-- Plat a lasagnes
+## Ustensiles
 
-Mode opératoire:
+- Plat a lasagnes
+- Couteau
+- Econome
+- Spatule
+
+## Mode opératoire
+
 - Peler et émincer l’ail et l’oignon
 - Éplucher tous les légumes et les couper en dés
 - Chauffer 1 c. d’huile dans une poêle antiadhésive et y faire revenir l’ail et l’oignon 5 min à feu moyen, en remuant
