@@ -6,4 +6,4 @@ Les recette sont sous licence libre, vous êtes libre de les copier pour tous le
 
 Les recettes ont les sources qui sont indiquées mais sont parfois retravaillées.
 
-![](https://pbs.twimg.com/media/EfVd5T5WAAEIBtz.jpg)
+![La kouizine](https://pbs.twimg.com/media/EfVd5T5WAAEIBtz.jpg)
