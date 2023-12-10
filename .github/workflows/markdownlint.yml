@@ -13,3 +13,4 @@ jobs:
     - uses: DavidAnson/markdownlint-cli2-action@v14
       with:
         globs: '**/*.md'
+        code_block_line_length: 200
