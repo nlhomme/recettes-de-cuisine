@@ -12,5 +12,5 @@ jobs:
     - uses: actions/checkout@v4
     - uses: DavidAnson/markdownlint-cli2-action@v14
       with:
+        config: '.github/workflow/config/custom.markdownlint.jsonc'
         globs: '**/*.md'
-        code_block_line_length: 200
