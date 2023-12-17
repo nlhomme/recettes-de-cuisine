@@ -17,6 +17,7 @@ Source: [Journal des Femmes](https://cuisine.journaldesfemmes.fr/recette/320385-
 - 50g de sucre
 - 2 bâtons de cannelle
 - 3 clous de girofle
+- 3 étoiles d'anis
 - 1 pincée de gingembre en poudre
 - 1 pincée de muscade rapée
 
