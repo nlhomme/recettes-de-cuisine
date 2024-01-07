@@ -29,3 +29,7 @@ Source: [Journal des Femmes](https://cuisine.journaldesfemmes.fr/recette/332875-
 - Recouvrez avec la deuxième pâte feuilletée
 - Soudez les deux pâtes en pressant le tour avec vos doigts, puis retournez le bord comme un ourlet en le pressant
 - Marquez le bord avec les dents d'une fourchette
+- À l'aide d'un pinceau, badigeonnez la surface de la galette avec le jaune d'œuf dilué dans un peu d'eau froide
+- Avec la lame de couteau, dessinez des croisillons sur le dessus
+- Piquez légèrement la pâte pour éviter qu'elle ne gonfle trop
+- Faites cuire la galette 20 minutes environ dans votre four (la galette doit être bien dorée au-dessus et en-dessous)
