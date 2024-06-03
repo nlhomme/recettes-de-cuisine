@@ -1,5 +1,7 @@
 # Meringue
 
+Source: [Florent BAUDON](https://github.com/FlorentBaudon)
+
 ## Ingrédients (pour 4 personnes)
 
 - 250 g de de sucre
