@@ -1,5 +1,7 @@
 # Pain
 
+Source: [Florent BAUDON](https://github.com/FlorentBaudon)
+
 ## Ingrédients
 
 - 500g de farine
